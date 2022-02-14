@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="classes" name="DemoSuite">
+
+  <test name="LoginLogout">
+    <classes>
+    <class name="seleniumgrid.LoginLogoutWithFF"/>
+      <class name="seleniumgrid.LoginLogoutWithChrome"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="DemoSuite">
+
+  <test name="LoginLogout">
+    <classes>
+      <class name="testngfiles.loginLogoutWithTestNG"/>
+      <class name="testngfiles.invalidloginLogoutWithTestNG"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

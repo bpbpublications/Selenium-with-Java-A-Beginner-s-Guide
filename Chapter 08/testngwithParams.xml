@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="DemoSuite">
+ <parameter name="browser"  value="chrome"/>
+  <test name="LoginLogout">
+    <classes>
+      <class name="testngfiles.loginLogoutWithParams"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
